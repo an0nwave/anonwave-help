@@ -1,6 +1,6 @@
 # Привет, Анон! Hi! Scroll Down for the English version
 
-Рума ANONWAVE задумана как место где можно делиться годнотой из мира музыки и приятно чилить. Для соблюдения порядка нужны правила, ознакомься с ними ниже во избежание неприятностей. После этого посмотри, [как искать и добавлять треки](https://i.imgur.com/Id4lWKY.jpg), и как починить поиск треков из YouTube. Можешь также ознакомиться с дополнениями для plug.dj.
+Рума ANONWAVE задумана как место где можно делиться годнотой из мира музыки и приятно чилить. Для соблюдения порядка нужны правила, ознакомься с ними ниже во избежание неприятностей. После этого посмотри, [как искать и добавлять треки](https://i.imgur.com/Id4lWKY.jpg), и как починить поиск треков из YouTube. Можешь также ознакомиться с дополнениями для plug.dj. [welc](
 
 ## Правила нашей румы
 
@@ -18,7 +18,19 @@
 
 7. Если юзер нарушает правила румы, то community staff должен попытаться решить проблему словесно. Если общением проблема не решается, community staff должен объяснять те ограничения, которые накладывает на юзеров.
 
+## Как починить поиск для YouTube
 
+Есть несколько способов починить неработающий поиск треков из YouTube
+
+### Способ 1: Закладка в браузере
+
+Создай закладку с одним из следующих адресов. Затем, находясь в руме, нажми на закладку.
+
+1. `javascript:(function(){gapi.client.setApiKey("AIzaSyAHB2NzxjWTknbepmzCAI2rRk7eI98ksqY"); alert("Youtube search hotfix loaded.");}());`
+2. `javascript:(function(){gapi.client.setApiKey("AIzaSyD1prSlu74GYzGp5LzriyjCth6tEv-6bXA"); alert("Youtube search hotfix loaded.");}());`
+3. `javascript:(function(){gapi.client.setApiKey("AIzaSyD--___tekD3NI_-Sj8cAnNyuDKFmdtOkM"); alert("Youtube search hotfix loaded.");}());`
+4. `javascript:(function(){gapi.client.setApiKey("AIzaSyBem6ljx-MJR2PqEeRJOL8FywRBTYnP3Rs"); alert("Youtube search hotfix loaded.");}());`
+5. `javascript:(function(){gapi.client.setApiKey("AIzaSyCTeoqqGhpRo5wR7w5TJIp2LMiZsqOPRZg"); alert("Youtube search hotfix loaded.");}());`
 
 ## Welcome to GitHub Pages
 
